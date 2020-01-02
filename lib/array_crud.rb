@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  arr = [ red, yellow, oragne, green]
+  array = [ red, yellow, oragne, green]
   
 end
 
